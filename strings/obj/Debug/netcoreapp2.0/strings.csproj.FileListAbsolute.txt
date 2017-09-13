@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\strings\bin\Debug\netcoreapp2.0\strings.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\strings\bin\Debug\netcoreapp2.0\strings.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\strings\bin\Debug\netcoreapp2.0\strings.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\strings\bin\Debug\netcoreapp2.0\strings.dll
+C:\Users\Duane Rush\source\repos\data-structures\strings\bin\Debug\netcoreapp2.0\strings.pdb
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.dll
+C:\Users\Duane Rush\source\repos\data-structures\strings\obj\Debug\netcoreapp2.0\strings.pdb
