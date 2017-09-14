@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\strings"
+    "\\nested-forloops",
+    "\\nested-forloops\\nested-forloops"
   ],
-  "SelectedNode": "\\strings\\Program.cs",
+  "SelectedNode": "\\nested-forloops\\nested-forloops\\nested-forloops.csproj",
   "PreviewInSolutionExplorer": false
 }

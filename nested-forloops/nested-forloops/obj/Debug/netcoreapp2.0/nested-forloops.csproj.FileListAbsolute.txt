@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\bin\Debug\netcoreapp2.0\nested-forloops.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\bin\Debug\netcoreapp2.0\nested-forloops.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\bin\Debug\netcoreapp2.0\nested-forloops.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\bin\Debug\netcoreapp2.0\nested-forloops.dll
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\bin\Debug\netcoreapp2.0\nested-forloops.pdb
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.dll
+C:\Users\Duane Rush\source\repos\data-structures\nested-forloops\nested-forloops\obj\Debug\netcoreapp2.0\nested-forloops.pdb
