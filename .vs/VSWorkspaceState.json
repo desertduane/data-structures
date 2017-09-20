@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LinkedLists",
-    "\\nested-forloops",
-    "\\strings"
+    "\\LinkedListFindMiddle",
+    "\\LinkedListFindMiddle\\LinkedListMiddle",
+    "\\LinkedListFindMiddle\\LinkedListMiddle\\LinkedListMiddle",
+    "\\LinkedLists\\LinkedLists"
   ],
-  "SelectedNode": "\\strings\\README.md",
+  "SelectedNode": "\\LinkedListFindMiddle\\LinkedListMiddle\\README.md",
   "PreviewInSolutionExplorer": false
 }
