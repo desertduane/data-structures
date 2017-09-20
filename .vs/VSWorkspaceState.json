@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\LinkedLists",
     "\\nested-forloops",
-    "\\nested-forloops\\nested-forloops"
+    "\\strings"
   ],
-  "SelectedNode": "\\nested-forloops\\nested-forloops\\nested-forloops.csproj",
+  "SelectedNode": "\\strings\\README.md",
   "PreviewInSolutionExplorer": false
 }
