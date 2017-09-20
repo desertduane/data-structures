@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\bin\Debug\netcoreapp2.0\LinkedListsNthFromEnd.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\bin\Debug\netcoreapp2.0\LinkedListsNthFromEnd.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\bin\Debug\netcoreapp2.0\LinkedListsNthFromEnd.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\bin\Debug\netcoreapp2.0\LinkedListsNthFromEnd.dll
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\bin\Debug\netcoreapp2.0\LinkedListsNthFromEnd.pdb
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.dll
+C:\Users\Duane Rush\source\repos\data-structures\LinkedListsNthFromEnd\LinkedListsNthFromEnd\obj\Debug\netcoreapp2.0\LinkedListsNthFromEnd.pdb
