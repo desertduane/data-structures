@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LinkedListsDelete
+namespace DoublyLinkedList
 {
     class Program
     {
@@ -23,7 +23,7 @@ namespace LinkedListsDelete
             duanesDopeList.printNthFromEnd(3);
             Console.WriteLine();
 
-           
+
             duanesDopeList.Delete("ONE");
             Console.WriteLine();
             duanesDopeList.Delete("FIVE");
