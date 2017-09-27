@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\bin\Debug\netcoreapp2.0\StacksAndQues.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\bin\Debug\netcoreapp2.0\StacksAndQues.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\bin\Debug\netcoreapp2.0\StacksAndQues.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\bin\Debug\netcoreapp2.0\StacksAndQues.dll
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\bin\Debug\netcoreapp2.0\StacksAndQues.pdb
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.dll
+C:\Users\Duane Rush\source\repos\data-structures\StacksAndQues\StacksAndQues\obj\Debug\netcoreapp2.0\StacksAndQues.pdb
