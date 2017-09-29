@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\PalindromeCheck",
+    "\\PalindromeCheck\\PalindromeCheck",
     "\\StacksAndQues"
   ],
-  "SelectedNode": "\\PalindromeCheck\\README.md",
+  "SelectedNode": "\\PalindromeCheck\\PalindromeCheck\\Node.cs",
   "PreviewInSolutionExplorer": false
 }
