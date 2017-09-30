@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PalindromeCheck",
-    "\\PalindromeCheck\\PalindromeCheck",
+    "\\QueueWith2Stacks",
     "\\StacksAndQues"
   ],
-  "SelectedNode": "\\PalindromeCheck\\PalindromeCheck\\Node.cs",
+  "SelectedNode": "\\PalindromeCheck",
   "PreviewInSolutionExplorer": false
 }
