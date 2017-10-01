@@ -16,11 +16,11 @@ namespace LinkedListsNthFromEnd
             duanesDopeList.Add("SEVEN");
             duanesDopeList.Add("EIGHT");
             duanesDopeList.Add("NINE");
-            duanesDopeList.printList();
+            duanesDopeList.PrintList();
             Console.WriteLine();
-            duanesDopeList.printMiddle();
+            duanesDopeList.PrintMiddle();
 
-            duanesDopeList.printNthFromEnd(3);
+            duanesDopeList.PrintNthFromEnd(3);
 
             Console.Read();
         }

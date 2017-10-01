@@ -40,7 +40,7 @@ namespace LinkedListsNthFromEnd
             }
 
         }
-        public void printList()
+        public void PrintList()
         {
 
             if (head == null)
@@ -59,7 +59,7 @@ namespace LinkedListsNthFromEnd
 
             }
         }
-        public void printMiddle()
+        public void PrintMiddle()
         {
             int listIndex = 0;
 
@@ -81,9 +81,9 @@ namespace LinkedListsNthFromEnd
             }
         }
 
-        public void printNthFromEnd(int nth)
+        public void PrintNthFromEnd(int nth)
         {
-            int listIndex = 0;
+            int listIndex = 1;
             int returnIndex = 0;
 
             if (head == null)
