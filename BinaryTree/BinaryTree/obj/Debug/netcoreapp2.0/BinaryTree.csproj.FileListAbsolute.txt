@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.dll
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.0\BinaryTree.pdb
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.dll
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.0\BinaryTree.pdb
