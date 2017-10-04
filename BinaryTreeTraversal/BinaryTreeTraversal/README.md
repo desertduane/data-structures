@@ -8,4 +8,4 @@ What did you learn during this assignment?
 I learned I easily overthink these data structures and back myself into
 a wall.
 What resources did you utilize for this assingment?
-Google and classmates
+Google and classmates/partners
