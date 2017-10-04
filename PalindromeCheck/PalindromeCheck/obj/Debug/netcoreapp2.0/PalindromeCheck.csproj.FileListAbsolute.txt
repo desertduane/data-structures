@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp2.0\PalindromeCheck.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp2.0\PalindromeCheck.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp2.0\PalindromeCheck.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp2.0\PalindromeCheck.dll
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\bin\Debug\netcoreapp2.0\PalindromeCheck.pdb
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.dll
+C:\Users\Duane Rush\source\repos\data-structures\PalindromeCheck\PalindromeCheck\obj\Debug\netcoreapp2.0\PalindromeCheck.pdb

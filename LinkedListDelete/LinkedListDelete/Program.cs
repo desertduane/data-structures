@@ -11,7 +11,7 @@ namespace LinkedListsDelete
             duanesDopeList.Add("TWO");
             duanesDopeList.Add("THREE");
             duanesDopeList.Add("FOUR");
-            duanesDopeList.Add("Five");
+            duanesDopeList.Add("FIVE");
             duanesDopeList.Add("SIX");
             duanesDopeList.Add("SEVEN");
             duanesDopeList.Add("EIGHT");
@@ -25,6 +25,8 @@ namespace LinkedListsDelete
 
            
             duanesDopeList.Delete("ONE");
+            Console.WriteLine();
+            duanesDopeList.Delete("FIVE");
 
 
             Console.Read();

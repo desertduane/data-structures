@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\bin\Debug\netcoreapp2.0\QueueWith2Stacks.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\bin\Debug\netcoreapp2.0\QueueWith2Stacks.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\bin\Debug\netcoreapp2.0\QueueWith2Stacks.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\bin\Debug\netcoreapp2.0\QueueWith2Stacks.dll
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\bin\Debug\netcoreapp2.0\QueueWith2Stacks.pdb
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.dll
+C:\Users\Duane Rush\source\repos\data-structures\QueueWith2Stacks\QueueWith2Stacks\obj\Debug\netcoreapp2.0\QueueWith2Stacks.pdb

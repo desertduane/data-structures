@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\bin\Debug\netcoreapp2.0\OrderedStack.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\bin\Debug\netcoreapp2.0\OrderedStack.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\bin\Debug\netcoreapp2.0\OrderedStack.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\bin\Debug\netcoreapp2.0\OrderedStack.dll
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\bin\Debug\netcoreapp2.0\OrderedStack.pdb
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.dll
+C:\Users\Duane Rush\source\repos\data-structures\OrderedStack\OrderedStack\obj\Debug\netcoreapp2.0\OrderedStack.pdb
