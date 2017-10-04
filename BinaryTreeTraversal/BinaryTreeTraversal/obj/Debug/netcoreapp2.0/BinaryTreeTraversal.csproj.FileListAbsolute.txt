@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\netcoreapp2.0\BinaryTreeTraversal.deps.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\netcoreapp2.0\BinaryTreeTraversal.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\netcoreapp2.0\BinaryTreeTraversal.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\netcoreapp2.0\BinaryTreeTraversal.dll
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\netcoreapp2.0\BinaryTreeTraversal.pdb
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.dll
+C:\Users\Duane Rush\source\repos\data-structures\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\netcoreapp2.0\BinaryTreeTraversal.pdb
