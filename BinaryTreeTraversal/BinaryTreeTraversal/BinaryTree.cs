@@ -12,10 +12,13 @@ namespace BinaryTreeTraversal
 
         public void GetChildren(Node Current)
         {
+            if(Current != null)
+            {
             Console.WriteLine(Current.Data);
-            if(Current.Left != null) { GetChildren(Current.Left); }
-            if(Current.Right != null) { GetChildren(Current.Right); }
-            return;
+            GetChildren(Current.Left); 
+            GetChildren(Current.Right); 
+
+            }
         }
     }
 
