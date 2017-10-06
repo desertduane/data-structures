@@ -31,6 +31,39 @@ namespace BinaryTreeOrder
 
             }
         }
+        public void PreOrderTraversal(Node Current)
+        {
+            if (Current != null)
+            {
+                Console.WriteLine(Current.Data);
+                PreOrderTraversal(Current.Left);
+                PreOrderTraversal(Current.Right);
+
+            }
+        }
+        public void BreadthTraversal(Node Current)
+        {
+            Queue<Node> NodeQueue = new Queue<Node>();
+            if(Current == null)
+            {
+                return;
+            }
+            NodeQueue.Enqueue(Current);
+            while (NodeQueue.Count > 0)
+            {
+                Node n = NodeQueue.Dequeue();
+                if(n.Left != null)
+                {
+                    NodeQueue.Enqueue(n.Left);
+                }
+                if(n.Right != null)
+                {
+                    NodeQueue.Enqueue(n.Right);
+                }
+                Console.WriteLine(n.Data);
+            }
+            
+        }
 
         public class Node
         {
