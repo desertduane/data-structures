@@ -18,6 +18,10 @@ namespace BinaryTreeOrder
             myTree.InOrderTraverse(myTree.Root);
             Console.WriteLine();
             myTree.PostOrderTraverse(myTree.Root);
+            Console.WriteLine();
+            myTree.PreOrderTraversal(myTree.Root);
+            Console.WriteLine();
+            myTree.BreadthTraversal(myTree.Root);
 
 
             Console.Read();
