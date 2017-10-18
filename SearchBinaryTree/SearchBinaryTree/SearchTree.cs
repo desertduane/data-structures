@@ -42,6 +42,43 @@ namespace BinarySearchTree
             }
 
         }
+
+        public void Min(Node node)
+        {
+            Node current = node;
+            if(current.Left == null)
+            {
+                Console.WriteLine($"{current.Data} is the min");
+            }
+            while (current.Left != null)
+            {
+
+                current = current.Left;
+                if (current.Left == null)
+                {
+                    Console.WriteLine($"{current.Data} is the min");
+                }
+            }
+        }
+
+        public void Max(Node node)
+        {
+            Node current = node;
+            if (current.Right == null)
+            {
+                Console.WriteLine($"{current.Data} is the max");
+            }
+            while (current.Right != null)
+            {
+
+                current = current.Right;
+                if (current.Right == null)
+                {
+                    Console.WriteLine($"{current.Data} is the max");
+                }
+            }
+        }
+
         public void InOrder(Node Current)
         {
             if (Current != null)

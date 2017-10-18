@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BinarySearchTree;
+using System;
 
 namespace SearchBinaryTree
 {
@@ -7,10 +8,11 @@ namespace SearchBinaryTree
         static void Main(string[] args)
         {
             SearchTree testTree = new SearchTree();
-            testTree.Add(testTree.Root, 5);
-            testTree.Add(testTree.Root, 6);
-            testTree.Add(testTree.Root, 4);
             testTree.Add(testTree.Root, 1);
+            testTree.Add(testTree.Root, 8);
+            testTree.Add(testTree.Root, 6);
+            testTree.Add(testTree.Root, 5);
+            testTree.Add(testTree.Root, 4);
             Console.WriteLine();
             testTree.InOrder(testTree.Root);
             Console.WriteLine();
@@ -19,6 +21,9 @@ namespace SearchBinaryTree
             testTree.PreOrder(testTree.Root);
             Console.WriteLine();
             testTree.Breadth(testTree.Root);
+            Console.WriteLine();
+            testTree.Min(testTree.Root);
+            testTree.Max(testTree.Root);
 
             Console.Read();
         }
