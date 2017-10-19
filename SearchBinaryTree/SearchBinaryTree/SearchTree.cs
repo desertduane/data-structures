@@ -43,12 +43,13 @@ namespace BinarySearchTree
 
         }
 
-        public void Min(Node node)
+        public int Min(Node node)
         {
             Node current = node;
-            if(current.Left == null)
+            if (current.Left == null)
             {
                 Console.WriteLine($"{current.Data} is the min");
+                return current.Data;
             }
             while (current.Left != null)
             {
@@ -57,8 +58,10 @@ namespace BinarySearchTree
                 if (current.Left == null)
                 {
                     Console.WriteLine($"{current.Data} is the min");
+                    return current.Data;
                 }
             }
+            return current.Data;
         }
 
         public void Max(Node node)
@@ -130,8 +133,37 @@ namespace BinarySearchTree
                 }
                 Console.WriteLine(n.Data);
             }
-
         }
+        public Node Delete(Node node, int Data)
+        {
+            if (node == null)
+            {
+                return node;
+            }
+            if (Data < node.Data)
+            {
+                node.Left = Delete(node.Left, Data);
+            }
+            else if (Data > node.Data)
+            {
+                node.Right = Delete(node.Right, Data);
+            }
+            else
+            {
+                if (node.Left == null)
+                {
+                    return node.Right;
+                }
+                else if (node.Right == null)
+                {
+                    return node.Left;
+                }
+                node.Data = Min(node.Right);
+                node.Right = Delete(node.Right, node.Data);
+            }
+            return node;
+        }
+
 
         public class Node
         {

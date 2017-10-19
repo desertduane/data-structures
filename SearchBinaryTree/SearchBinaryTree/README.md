@@ -1,8 +1,9 @@
 ﻿What did you learn?
-How to search for a min/max of a binary search tree. Started looking at how to 
-delete a node.
+I learned how to write a method to delete a node from a binary search tree.
 Where did you look?
-I did not look anything up for this challenge all my learning came from 
-my partners and the TAs.
+http://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+
+was a site I found with a good example in Java that used comments to explain how it worked 
+and helped me understand.
 What notes did you use to help you successfully complete the challenge?
-I did look over last challenge to help piece this together. 
+Mostly just looking back at how to recursively move through the tree. 
