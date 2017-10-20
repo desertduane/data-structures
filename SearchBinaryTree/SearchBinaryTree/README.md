@@ -1,9 +1,10 @@
 ﻿What did you learn?
-I learned how to write a method to delete a node from a binary search tree.
+I learned one means to take a sorted array and make it into a balanced BST.
 Where did you look?
-http://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/
 
-was a site I found with a good example in Java that used comments to explain how it worked 
-and helped me understand.
+a very helpfull example in Java with commented code to explain what is going on at each step
+
 What notes did you use to help you successfully complete the challenge?
-Mostly just looking back at how to recursively move through the tree. 
+No notes just having to make a easy translation of Java into C# with the example above to fully 
+understand how this workes. 

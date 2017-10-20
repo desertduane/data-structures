@@ -8,6 +8,22 @@ namespace BinarySearchTree
     {
         public Node Root { get; set; }
 
+        public Node SortedArr(int[] arr, int start, int end)
+        {
+            if(start > end)
+            {
+                return null;
+            }
+            int mid = (start + end) / 2;
+            Node node = new Node(arr[mid])
+            {
+                Left = SortedArr(arr, start, mid - 1),
+                Right = SortedArr(arr, mid + 1, end)
+            };
+
+            return node;
+        }
+
         public void Add(Node node, int data)
         {
             if (Root == null)
