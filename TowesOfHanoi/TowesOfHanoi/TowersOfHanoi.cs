@@ -14,7 +14,7 @@ namespace TowersOfHanoi
             {
                 Console.WriteLine(start + " -> " + end);
             }
-            if (discs > 1)
+            else
             {
                 
                 MoveTower(discs - 1, start, end, aux);
